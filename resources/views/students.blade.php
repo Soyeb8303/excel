@@ -11,7 +11,7 @@
 
 <div class="container mt-5">
 
-<h2>Add Student</h2>
+<h2>Pls Add Student</h2>
 
 @if(session('success'))
 <div class="alert alert-success" id="alert-message">
